@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="coolman">Cool Man</string>
+    <string name="gmail">coolman228@gmail.com</string>
+    <string name="ic1">My Reviews</string>
+    <string name="ic2">Account Setting</string>
+    <string name="ic3">Personal Information</string>
+    <string name="ic4">Notification</string>
+    <string name="ic5">Fingerprint Settings</string>
+    <string name="ic6">Back to Main page</string>
+</resources>
